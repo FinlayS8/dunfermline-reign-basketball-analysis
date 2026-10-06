@@ -4,9 +4,7 @@
 
 A Python-based basketball analytics project analysing player efficiency, performance trends and team-level win factors associated with winning for Dunfermline Reign Senior Men during the 2025/26 season.
 
-The project was developed as both a practical performance-analysis tool
-for an amateur basketball team and a self-directed project to develop
-Python, data analysis and machine-learning skills.
+The project was developed as both a practical performance-analysis tool for an amateur basketball team and a self-directed project to develop Python, data analysis and machine-learning skills.
 
 ---
 
@@ -14,21 +12,17 @@ Python, data analysis and machine-learning skills.
 
 The analysis investigated three main questions:
 
-1. How can player scoring volume and shooting efficiency be evaluated
-   together?
+1. How can player scoring volume and shooting efficiency be evaluated together?
 2. How consistent were individual player performances throughout the season?
-3. Which team-level performance metrics were most strongly associated
-   with winning?
+3. Which team-level performance metrics were most strongly associated with winning?
 
-The analysis used exploratory data analysis, statistical metrics,
-visualisation and an interpretable decision-tree model.
+The analysis used exploratory data analysis, statistical metrics, visualisation and an interpretable decision-tree model.
 
 ---
 
 ## Key Findings
 
-The decision-tree analysis identified three team-level variables as
-important predictors of game outcomes:
+The decision-tree analysis identified three team-level variables as important predictors of game outcomes:
 
 | Metric | Feature Importance |
 |---|---|
@@ -37,12 +31,9 @@ important predictors of game outcomes:
 | Team True Shooting % | 13.7% |
 | Team AST/TOV | 0.0% |
 
-The analysis suggested that rebounds, scoring contribution from the
-team's leading scorers and shooting efficiency were the most important
-factors within this dataset.
+The analysis suggested that rebounds, scoring contribution from the team's leading scorers and shooting efficiency were the most important factors within this dataset.
 
-These findings are specific to the team's 2025/26 season and should not
-be interpreted as universal basketball benchmarks.
+These findings are specific to the team's 2025/26 season and should not be interpreted as universal basketball benchmarks.
 
 ## Selected Results
 
@@ -98,12 +89,9 @@ The full methodology and results are presented in the accompanying report.
 
 ## Data Privacy
 
-The original dataset is not included in this repository because it
-contains private player and team information.
+The original dataset is not included in this repository because it contains private player and team information.
 
-The analysis, code, visualisations and final report are provided to
-demonstrate the methodology and findings without making the underlying
-dataset publicly available.
+The analysis, code, visualisations and final report are provided to demonstrate the methodology and findings without making the underlying dataset publicly available.
 
 ---
 
